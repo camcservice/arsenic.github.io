@@ -1,0 +1,13 @@
+logs/*
+src/api/app/config.php
+files/*
+src/ui/src/config.php
+var/*
+.settings/
+.buildpath
+.project
+cspro_terms_of_service.rtf
+/nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
+src/AppBundle/config.php
